@@ -1,0 +1,12 @@
+{
+    "start_datetime": {
+        "year": 2021,
+        "month": 4,
+        "day": 12,
+        "hours": 18,
+        "minutes": 35
+    },
+    "add_minutes": 60,
+    "loop_time": 2,
+    "simulation_time": 40
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Popcorn",
+        "first_price": 25
+    },
+    {
+        "name": "Coca Cola",
+        "first_price": 7.5
+    },
+    {
+        "name": "Nachos",
+        "first_price": 15
+    },
+    {
+        "name": "Carmel Peanuts",
+        "first_price": 11.2
+    },
+    {
+        "name": "Haribo",
+        "first_price": 8
+    },
+    {
+        "name": "Skittles",
+        "first_price": 7.3
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "room_number": 1,
+        "status":  "Open",
+        "rows": 10,
+        "seats": 13
+    },
+    {
+        "room_number": 2,
+        "status":  "Open",
+        "rows": 11,
+        "seats": 20
+    },
+    {
+        "room_number": 3,
+        "status":  "Open",
+        "rows": 12,
+        "seats": 25
+    },
+    {
+        "room_number": 4,
+        "status":  "Open",
+        "rows": 15,
+        "seats": 25
+    }
+]

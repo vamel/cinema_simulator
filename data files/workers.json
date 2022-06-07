@@ -1,0 +1,80 @@
+[
+    {
+        "first_name": "Taylor",
+        "second_name": "Swift",
+        "salary": 2505,
+        "position": "ticket seller"
+    },
+    {
+        "first_name": "Elizabeth",
+        "second_name": "Grant",
+        "salary": 1315,
+        "position": "ticket seller"
+    },
+    {
+        "first_name": "Phoebe",
+        "second_name": "Bridgers",
+        "salary": 1055,
+        "position": "ticket seller"
+    },
+    {
+        "first_name": "Florence",
+        "second_name": "Welch",
+        "salary": 1189,
+        "position": "snack seller"
+    },
+    {
+        "first_name": "Weyes",
+        "second_name": "Blood",
+        "salary": 1014,
+        "position": "snack seller"
+    },
+    {
+        "first_name": "Arlo",
+        "second_name": "Parks",
+        "salary": 1460,
+        "position": "snack seller"
+    },
+    {
+        "first_name": "Billie",
+        "second_name": "Eilish",
+        "salary": 2947,
+        "position": "snack seller"
+    },
+    {
+        "first_name": "Olivia",
+        "second_name": "Rodrigo",
+        "salary": 2390,
+        "position": "snack seller"
+    },
+    {
+        "first_name": "Harry",
+        "second_name": "Styles",
+        "salary": 1616,
+        "position": "ticket seller"
+    },
+    {
+        "first_name": "Dua",
+        "second_name": "Lipa",
+        "salary": 3000,
+        "position": "ticket seller"
+    },
+    {
+        "first_name": "Ariana",
+        "second_name": "Grande",
+        "salary": 2573,
+        "position": "snack seller"
+    },
+    {
+        "first_name": "Chris",
+        "second_name": "Martin",
+        "salary": 2750,
+        "position": "ticket seller"
+    },
+    {
+        "first_name": "Kasia",
+        "second_name": "Mikolajczyk",
+        "salary": 99999,
+        "position": "ticket seller"
+    }
+]
